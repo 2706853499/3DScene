@@ -1,0 +1,16 @@
+﻿  Face.cpp
+  main.cpp
+c:\users\george\desktop\3dscene-master\3dscene\main.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
+  Mesh.cpp
+  Vector3.cpp
+  ObjLoader.cpp
+c:\users\george\desktop\3dscene-master\3dscene\objloader.cpp(131): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\george\desktop\3dscene-master\3dscene\objloader.cpp(160): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\george\desktop\3dscene-master\3dscene\objloader.cpp(276): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\george\desktop\3dscene-master\3dscene\objloader.cpp(345): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\george\desktop\3dscene-master\3dscene\objloader.cpp(350): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Texture.cpp
+  正在生成代码
+  All 832 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  3DScene.vcxproj -> C:\Users\GEORGE\Desktop\3DScene-master\x64\Release\3DScene.exe
