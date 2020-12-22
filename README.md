@@ -1,0 +1,2 @@
+# 3DScene
+facescape数据库中obj文件渲染，使用opencv绑定纹理或对三角形颜色平滑
